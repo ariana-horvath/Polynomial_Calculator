@@ -1,3 +1,4 @@
+#Polynomial Calculator
 
 The main objective of this project is to design and implement a polynomial calculator with a dedicated graphical interface through which the user 
 can insert polynomials, select the mathematical operation (i.e. addition, subtraction, multiplication, division, 
