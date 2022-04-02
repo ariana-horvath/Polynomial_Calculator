@@ -2,7 +2,7 @@
 
 The main objective of this project is to design and implement a polynomial calculator with a dedicated graphical interface through which the user 
 can insert polynomials, select the mathematical operation (i.e. addition, subtraction, multiplication, division, 
-derivative, integration) to be performed and view the result. Consider the polynomials of one variable and
+derivative, integration) to be performed and view the result. It considers the polynomials of one variable and
 integer coefficients.
 
 The user introduces one or two polynomials (depending on the operation) in the text fields in the form:
